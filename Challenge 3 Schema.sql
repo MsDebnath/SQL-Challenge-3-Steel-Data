@@ -1,4 +1,4 @@
--- Create database 'Challenge 1'
+-- Create database 'Challenge 3'
 CREATE DATABASE challenge_3;
 
 -- Make database as default
